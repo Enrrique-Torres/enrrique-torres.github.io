@@ -1,6 +1,6 @@
 layout: page
 title: "Contact Page"
-permalink: /about/contact
+permalink: /about/contact/
 
 <head>
   <body>
